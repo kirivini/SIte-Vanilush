@@ -1,0 +1,9 @@
+vanilush-site/
+│── index.html
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── img/
+│       ├── logo.jpg      (sua logo)
+│       └── carimbo.jpg   (seu carimbo)
